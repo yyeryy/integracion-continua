@@ -7,6 +7,7 @@ use Deg540\PHPTestingBoilerplate\PrimeFactorsCalculator;
 use Mockery;
 use PHPUnit\Framework\TestCase;
 
+
 class PrimeFactorsCalculatorTest extends TestCase
 {
     protected function setUp(): void
