@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'deg540/php-testing-boilerplate',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => '6bcff031509f584d37ccd4d24743f9f426870799',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '6cd0a9bf38138ae89e14f131e0f0ba21390a5f70',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -113,9 +113,9 @@
             ),
         ),
         'deg540/php-testing-boilerplate' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '6bcff031509f584d37ccd4d24743f9f426870799',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '6cd0a9bf38138ae89e14f131e0f0ba21390a5f70',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
